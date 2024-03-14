@@ -1,6 +1,3 @@
-# game-development
-AEC game development course
-
 1.Instantiate a 5 x 5 grid of squares using sprites and C# Code
 using System.Collections;
  using System.Collections.Generic;
